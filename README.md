@@ -38,9 +38,7 @@ The website is a **modern Agency site** with a fully functional **Blog section**
 
 ---
 
-## 📸 Screenshots  
 
-_Add homepage, blog page, and admin panel screenshots here._  
 
 ---
 
